@@ -33,11 +33,11 @@ export default function FAQ() {
           <GridItem xs={12} sm={12} md={4}>
             <Card plain>
               <h4 className={classes.cardTitle}>
-                When Will The DAC Launch Take Place?
+              What is an NFT?
                 <br />
               </h4>
               <h4 className={classes.description}>
-                DAC will mint in 2022.
+                DAC will mint in 2022
                 <br />
               </h4>
             </Card>

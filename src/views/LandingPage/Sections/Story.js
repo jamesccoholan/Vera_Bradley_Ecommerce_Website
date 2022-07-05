@@ -33,7 +33,7 @@ export default function Story() {
               <img
                 className={classes.image}
                 src={
-                  "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-06-27_at_3.27.02_PM_bBPIlXfFYy.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656368867146"
+                  "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-07-05_at_2_1__g_R6buc0B.11?ik-sdk-version=javascript-1.4.3&updatedAt=1657058814808"
                 }
                 alt="Disconaut Scene"
               />
@@ -52,7 +52,7 @@ export default function Story() {
               <img
                 className={classes.image}
                 src={
-                  "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-06-27_at_3.37.16_PM_2yIgJycx1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656369449609"
+                  "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-07-05_at_2.58.34_PM_QDaUcmL8E.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657058813934"
                 }
                 alt="Gathering Scene"
               />
@@ -90,7 +90,7 @@ export default function Story() {
               <img
                 className={classes.image}
                 src={
-                  "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-06-27_at_3.27.13_PM_-D3Uq14Rt.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656368866964"
+                  "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-07-05_at_2.58.20_PM_L4c6bKMNc.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657058813725"
                 }
                 alt="Party Scene"
               />

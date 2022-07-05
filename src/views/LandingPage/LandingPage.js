@@ -25,7 +25,7 @@ import TeamSection from "./Sections/TeamSection.js";
 import WorkSection from "./Sections/RoadmapSection.js";
 import Gallery from "./Sections/Gallery.js";
 import Story from "./Sections/Story.js";
-import FAQ from "./Sections/FAQ.js";
+// import FAQ from "./Sections/FAQ.js";
 
 const dashboardRoutes = [];
 
@@ -47,7 +47,7 @@ export default function LandingPage(props) {
       <Parallax
         filter
         image={
-          "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-07-05_at_1.55.37_PM_mTu74dyVu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657054588107"
+          "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-07-05_at_3.09.51_PM_kV1nabqba.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657059017145"
         }
         alt="Vera bRadley"
       >
@@ -62,13 +62,13 @@ export default function LandingPage(props) {
                 <Button
                   color="twitter"
                   size="lg"
-                  href="https://www.youtube.com"
+                  href="https://verabradley.com/?cm_mmc=paidsearch-_-google-_-180703-_-brand-pure-exact&gclid=CjwKCAjwwo-WBhAMEiwAV4dybbyKt9OPDSIkVxlt0GFc_riOI8xAHDXHIRgtPNvbv0QJ0oGX8w8zyRoC3sYQAvD_BwE&gclsrc=aw.ds"
                   target="_blank"
                   rel="noopener noreferrer"
                   className={classes.titleButton}
                 >
                   <i className="fas fa-play" />
-                  Producers Portal
+                  Vera Bradley
                 </Button>
                 {/* <Button
                   color="twitter"
@@ -98,7 +98,7 @@ export default function LandingPage(props) {
           </div>
         </div>
         <Story />
-        <FAQ />
+        {/* <FAQ /> */}
         <div className={classNames(classes.main, classes.mainRaised)}>
           <div className={classes.container}>
             <TeamSection />
