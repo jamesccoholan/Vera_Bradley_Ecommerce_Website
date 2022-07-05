@@ -1,7 +1,7 @@
 {
   "name": "material-kit-react",
   "version": "1.10.0",
-  "description": "Material Kit React. Coded by Creative Tim",
+  "description": "Material Kit React.",
   "private": true,
   "main": "src/index.js",
   "dependencies": {

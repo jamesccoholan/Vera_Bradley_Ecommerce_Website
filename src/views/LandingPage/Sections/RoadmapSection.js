@@ -15,7 +15,7 @@ const useStyles = makeStyles(styles);
 const roadmapItems = [
   {
     phase: 1,
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-06-27_at_3.41.55_PM_kGbZLfnvs9.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656369758022",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-07-05_at_2.58.34_PM_QDaUcmL8E.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657058813934",
     items: [
       {
         title: "Limited Edition Physicals",
@@ -26,7 +26,7 @@ const roadmapItems = [
   },
   {
     phase: 2,
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-06-27_at_3.41.59_PM_mBP4M6AxQ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656369757757",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-07-05_at_2.58.34_PM_QDaUcmL8E.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657058813934",
     items: [
       {
         title: "Charity",
@@ -37,7 +37,7 @@ const roadmapItems = [
   },
   {
     phase: 3,
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-06-27_at_3.42.11_PM_239UtY-Dx.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656369757639",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-07-05_at_2_1__g_R6buc0B.11?ik-sdk-version=javascript-1.4.3&updatedAt=1657058814808",
     items: [
       {
         title: "Giveaways",

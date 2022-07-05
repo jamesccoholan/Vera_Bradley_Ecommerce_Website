@@ -25,7 +25,7 @@ import TeamSection from "./Sections/TeamSection.js";
 import WorkSection from "./Sections/RoadmapSection.js";
 import Gallery from "./Sections/Gallery.js";
 import Story from "./Sections/Story.js";
-// import FAQ from "./Sections/FAQ.js";
+import Story2 from "./Sections/Story2.js";
 
 const dashboardRoutes = [];
 
@@ -55,7 +55,7 @@ export default function LandingPage(props) {
           <div className={classes.container}>
             <GridContainer>
               <GridItem xs={12} sm={12} md={6}>
-                <h1 className={classes.title}>VB</h1>
+                <h1 className={classes.title}>Veraverse</h1>
                 <h2 className={classes.subtitle}>NFT</h2>
                 <h4>Minting Soon</h4>
                 <br />
@@ -98,12 +98,12 @@ export default function LandingPage(props) {
           </div>
         </div>
         <Story />
-        {/* <FAQ /> */}
         <div className={classNames(classes.main, classes.mainRaised)}>
           <div className={classes.container}>
             <TeamSection />
           </div>
         </div>
+        <Story2 />
       </div>
       <Footer />
     </div>

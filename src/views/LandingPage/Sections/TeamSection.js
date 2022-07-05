@@ -17,17 +17,17 @@ const team = [
   {
     name: "Jake",
     job: "Creative Director",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-06-27_at_3.41.59_PM_mBP4M6AxQ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656369757757",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-07-05_at_2.58.11_PM_tZMZzlmpz.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657058812848",
   },
   {
     name: "Lauren",
     job: "Artist",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-06-27_at_3.41.46_PM_Qgzf3eNEGJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656369758166",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-07-05_at_2.58.11_PM_tZMZzlmpz.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657058812848",
   },
   {
     name: "Dan",
     job: "Engineer",
-    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-06-27_at_3.42.06_PM_1Em_tIeDN.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656369757760",
+    img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-07-05_at_2.58.11_PM_tZMZzlmpz.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657058812848",
   },
 ];
 

@@ -24,10 +24,10 @@ export default function ProductSection() {
         <GridContainer>
           <GridItem xs={12} sm={12} md={4}>
             <InfoArea
-              title="Virtual Artists, Original Music"
-              description="Music and Visual Media Drops. Royalties Distributed to NFT Holders."
+              // title="Veraverse is a new metaverse concept space by Vera Bradley."
+              description="Veraverse is a new metaverse concept space by Vera Bradley. The Veraverse bridges Vera Bradley’s physical and digital worlds, intersecting past, present and future. In 1982, amidst a sea of boring black luggage, Vera Bradley co-founders, Barbara Bradley Baekgaard and Patricia Miller pioneered a world of colorful travel."
               icon={
-                "https://ik.imagekit.io/5ierklngtbt/img/Star_LLdSyPIbfpw?ik-sdk-version=javascript-1.4.3&updatedAt=1643774062958"
+                "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-07-05_at_2_1__g_R6buc0B.11?ik-sdk-version=javascript-1.4.3&updatedAt=1657058814808"
               }
               alt="Disconaut NFT"
               vertical
@@ -35,10 +35,10 @@ export default function ProductSection() {
           </GridItem>
           <GridItem xs={12} sm={12} md={4}>
             <InfoArea
-              title="Metaverse Concerts and Live Events"
-              description="Virtual Music Festivals, Live Concerts and Exclusive After-parties."
+              // title="Veraverse is a new metaverse concept space by Vera Bradley."
+              description="Over the last 40 years, they have created a community woven by the strong spirit and commitment of women supporting women. As we journey into the Veraverse, we are connected by this common thread, a shared love of making the world a bit brighter each day. Dreamers and doers, creatives and curators, planners and protagonists, are connected in our colors and powered by our prints. It's what brings us together, and helps you stand out."
               icon={
-                "https://ik.imagekit.io/5ierklngtbt/img/Blue_Chrome_OaHZDzYOM?ik-sdk-version=javascript-1.4.3&updatedAt=1643768548208"
+                "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-07-05_at_2.58.34_PM_QDaUcmL8E.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657058813934"
               }
               alt="Disconaut NFT"
               vertical
@@ -46,10 +46,10 @@ export default function ProductSection() {
           </GridItem>
           <GridItem xs={12} sm={12} md={4}>
             <InfoArea
-              title="Metaverse Concerts and Live Events"
-              description="Virtual Music Festivals, Live Concerts and Exclusive After-parties."
+              // title="Metaverse Concerts and Live Events"
+              description="Together, we are Vera Bradley, and we look forward to bringing our colorful world to life in Web3, continuing to pioneer new opportunities for women today, tomorrow and for years to come.Virtual Music Festivals, Live Concerts and Exclusive After-parties."
               icon={
-                "https://ik.imagekit.io/5ierklngtbt/img/Blue_Chrome_OaHZDzYOM?ik-sdk-version=javascript-1.4.3&updatedAt=1643768548208"
+                "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-07-05_at_2.58.20_PM_L4c6bKMNc.png?ik-sdk-version=javascript-1.4.3&updatedAt=1657058813725"
               }
               alt="Disconaut NFT"
               vertical
